@@ -3,7 +3,7 @@ These are simple instructions that I used for running an object detection app in
 
 Here is the overview for a simple Windows PC installation (I did it on Windows 7 Professional), without GPU support and without using Anaconda :
 
-<image>
+![Alt text](https://github.com/kapilsharmagit/Object-Detection-In-Video-Using-Tensorflow-on-Windows/blob/master/Object-Detection-On-Video-Using-Tensorflow-On-Windows.PNG?raw=true "Installation Steps")
 
 1. Install Python 3.6
 Go to https://www.python.org/downloads/ and download the Windows version and install it. Please make sure that you can run
